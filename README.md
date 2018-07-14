@@ -1,0 +1,2 @@
+# project57160694
+oftware Testing is the process of identifying the correctness and quality of software program. The purpose is to check whether the software satisfies the specific requirements, needs and expectations of the customer. This paper presents an attempt to develop a semi-automatic       testing tool, named SoftTest. SoftTest system provides a testing package including test planning function, test case creation, test run and test report. The system is developed by using the Laravel Framework on Windows10 with Xampp and Apache HTTP Server. PHP, HTML and JavaScript
